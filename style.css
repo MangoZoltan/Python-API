@@ -17,3 +17,6 @@ label{
 th{
     color: rgba(30, 143, 255, 0.699);
 }
+table input{
+    width: 100px;
+}
