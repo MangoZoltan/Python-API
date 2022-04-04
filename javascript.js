@@ -49,7 +49,7 @@ function deleterecord(id){
     id: parseInt(id)
   });
 
-  navigator.sendBeacon('http://127.0.0.1:5000/deleterecord/', data);
+  //navigator.sendBeacon('http://127.0.0.1:5000/deleterecord/', data);
   console.log(data);
 }
 
